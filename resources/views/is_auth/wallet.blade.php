@@ -88,7 +88,8 @@
                 </button>
             </div>
 
-            <div class="d-flex justify-content-center">
+            <div class="d-flex flex-column align-items-center justify-content-center">
+                <!-- Card Details -->
                 <div class="custom-shadow mt-4 p-4 rounded-4" style="width: 65%">
                     <div class="row align-items-start">
                         <div class="row mx-2">
@@ -109,7 +110,10 @@
                             </div>
                         </div>
                     </div>
-
+                </div>
+            
+                <!-- Latest Transaction -->
+                <div class="custom-shadow mt-4 p-4 rounded-4" style="width: 65%">
                     <div class="row align-items-start">
                         <div class="row mx-2 mt-2">
                             <h5 class="text-primary font-weight-bold pb-1">Latest Transaction</h5>
@@ -157,14 +161,14 @@
                             </div>
                         </div>
                     </div>
-
                     <div class="d-flex justify-content-center">
                         <a href="{{ route('reports') }}" class="see-all text-decoration-none">
-                            <button >See All</button>
+                            <button>See All</button>
                         </a>
                     </div>
                 </div>
             </div>
+            
 
         </div>
 

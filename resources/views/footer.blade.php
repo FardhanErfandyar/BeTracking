@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <!-- Logo Column -->
-            <div class="col-md-6 text-center mb-3 mt-4 mb-md-0">
+            <div class="col-md-5 text-center mb-3 mt-4 mb-md-0">
                 <img src="{{ asset('images/logo-footer.svg') }}" alt="Logo" class="img-fluid" style="max-width: 200px;">
             </div>
 
@@ -20,10 +20,10 @@
             <!-- Social Media Column -->
             <div class="col-md-3 text-start mb-3 mb-md-0">
                 <ul class="list-unstyled">
-                    <li><a href="#" class="text-white me-3">Facebook</a></li>
-                    <li><a href="#" class="text-white me-3">Twitter</a></li>
-                    <li><a href="#" class="text-white me-3">Instagram</a></li>
-                    <li><a href="#" class="text-white">Linkedin</a></li>
+                    <li><a href="#" class="text-white me-3 text-decoration-none"> <i class="fa-brands fa-facebook-f"></i> facebook.com/betracking</a></li>
+                    <li><a href="#" class="text-white me-3 text-decoration-none"><i class="fa-brands fa-x-twitter"></i> twitter.com/betracking</a></li>
+                    <li><a href="#" class="text-white me-3 text-decoration-none"><i class="fa-brands fa-instagram"></i> Instagram.com/betracking</a></li>
+                    <li><a href="#" class="text-white text-decoration-none"><i class="fa-brands fa-linkedin-in"></i> linkedin.com/betracking</a></li>
                 </ul>
             </div>
         </div>

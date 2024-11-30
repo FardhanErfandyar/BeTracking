@@ -138,7 +138,7 @@
     </main>
 
     <footer>
-        <p>© BeTracking, To Be Tracked, 2024.</p>
+        @include('footer')
     </footer>
 
         <!-- JavaScript Pop Up -->

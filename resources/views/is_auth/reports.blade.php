@@ -59,7 +59,7 @@
                                                 </div>
                                                 <div class="d-flex justify-content-between">
                                                     <button type="button" class="btn btn-outline-secondary-report" data-bs-dismiss="modal" style="border-radius: 8px;">Cancel</button>
-                                                    <button type="submit" class="btn btn-primary" style="background-color: #00c2c7; border: none; border-radius: 8px;">save</button>
+                                                    <button type="submit" class="btn btn-primary" style="background-color: #00c2c7; border: none; border-radius: 8px;">Save</button>
                                                 </div>
                                             </form>
                                         </div>
