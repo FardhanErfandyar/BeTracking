@@ -70,9 +70,26 @@
                                     </i>
                                 </div>
                                 <div class="wallet-number fw-semibold" style="color: black">1234567890 <span class="wallet-copy-icon"><img
-                                            src="{{ asset('images/copy.svg') }}" alt=""></span></div>
+                                            src="{{ asset('images/copy.svg') }}" alt="" class="copy-icon-dark"></span></div>
                                 <div class="wallet-footer" style="color: black">
                                     09/27
+                                </div>
+                            </div>
+
+                            <!-- wallet 4 -->
+                            <div class="wallet" style="background: linear-gradient(180deg, #ECEAEA 0%,rgb(124, 124, 124) 100%);">
+                                <div class="wallet-header">
+                                    <img src="{{ asset("images/mandiri.png") }}" alt="Mandiri" style="width: 100px; height: auto;">
+                                </div>
+                                <div class="wallet-balance" style="color: black">
+                                    Rp******
+                                    <i class="fas fa-eye-slash">
+                                    </i>
+                                </div>
+                                <div class="wallet-number fw-semibold" style="color: black">141723456234 <span class="wallet-copy-icon">
+                                    <img src="{{ asset('images/copy.svg') }}" alt="" class="copy-icon-dark"></span></div>
+                                <div class="wallet-footer" style="color: black">
+                                    10/27
                                 </div>
                             </div>
                         </div>

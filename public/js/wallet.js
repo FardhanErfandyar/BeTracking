@@ -1,5 +1,5 @@
 const wallets = document.querySelectorAll('.wallet');
-let currentIndex = 1; // Start with middle wallet
+let currentIndex = 1; // Start with second wallet
 
 function updateWallets() {
   wallets.forEach((wallet, index) => {

@@ -83,6 +83,9 @@
 .wallet .wallet-footer .fa-copy {
     margin-left: 10px;
 }
+.copy-icon-dark {
+    filter: brightness(0) invert(0);
+}
 .wallet .wallet-footer .fa-eye-slash {
     margin-left: 10px;
 }
