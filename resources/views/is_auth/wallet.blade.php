@@ -69,7 +69,7 @@
                                     <i class="fas fa-eye-slash">
                                     </i>
                                 </div>
-                                <div class="wallet-number fw-semibold" style="color: black">1234567890 <span class="wallet-copy-icon"><img
+                                <div class="wallet-number fw-semibold" style="color: black">081234567890<span class="wallet-copy-icon"><img
                                             src="{{ asset('images/copy.svg') }}" alt="" class="copy-icon-dark"></span></div>
                                 <div class="wallet-footer" style="color: black">
                                     09/27
@@ -185,8 +185,6 @@
                     </div>
                 </div>
             </div>
-            
-
         </div>
 
         <script src="{{ asset('js/wallet.js') }}"></script>
